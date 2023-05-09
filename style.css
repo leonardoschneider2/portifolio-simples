@@ -87,4 +87,9 @@ main {
   color: #da1212;
   font-weight: 700;
 }
-  
+
+.main__2 {
+  background: #fff;
+  margin: 0;
+  padding: 100px 0;
+}
