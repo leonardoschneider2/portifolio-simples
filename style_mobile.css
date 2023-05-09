@@ -1,0 +1,10 @@
+@media only screen and (max-width: 400px) {
+  main {
+    margin: 20px;
+    margin-top: 100px
+  }
+
+  .descricao {
+    width: 300px;
+  }
+}
