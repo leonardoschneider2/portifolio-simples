@@ -19,7 +19,7 @@ body {
   border-radius: 20px;
 }
 
-main {
+.main__1 {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -92,4 +92,8 @@ main {
   background: #fff;
   margin: 0;
   padding: 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 60px;
 }
